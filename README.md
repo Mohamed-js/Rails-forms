@@ -1,12 +1,12 @@
-# The Micro-Reddit
+# The Re-Former
 
-Built models and migration for a Micro-Reddit web application using Ruby on Rails.
+Built a form using Form helpers, controllers and views 
 
 ## About
 
-This project is a recreation of the Reddit application, but on the model side.
+This project is about creating a form using Rails Form helpers using MVC (Model -View-Controller).
 
-It focuses on creating Models with validations and associations on rails using Active Record.
+It focuses on creating Models with validations on rails using Active Record.
 
 ![app_screenshot.PNG](https://github.com/icebox827/micro-reddit/blob/feature_app/APP_SCREENSHOT.png?raw=true)
 
