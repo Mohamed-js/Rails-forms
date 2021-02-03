@@ -8,7 +8,7 @@ This project is about creating a form using Rails Form helpers using MVC (Model 
 
 It focuses on creating Models with validations on rails using Active Record.
 
-![app_screenshot.PNG](https://github.com/icebox827/micro-reddit/blob/feature_app/APP_SCREENSHOT.png?raw=true)
+![app_screenshot.PNG](/APP_SCREENSHOT.png)
 
 In this project we:
 - Made a model for users.
@@ -19,9 +19,11 @@ In this project we:
 
 ## Usage
 
-- Clone the repo "https://github.com/icebox827/micro-reddit.git".
-- Write "rails console".
-- Start adding users, posts and comments.
+- Clone the repo "https://github.com/Mohamed-js/Rails-forms.git".
+- Write "rails server".
+- Go to url "http://127.0.0.1:3000/users/new"
+- Create User
+- Edit User
 
 
 ## Technologies
@@ -50,7 +52,7 @@ In this project we:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/icebox827/micro-reddit/issues/2).
+Feel free to check the [issues page](https://github.com/Mohamed-js/Rails-forms/issues/1).
 
 ## Show your support
 
