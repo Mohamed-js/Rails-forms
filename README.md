@@ -12,10 +12,10 @@ It focuses on creating Models with validations on rails using Active Record.
 
 In this project we:
 - Made a model for users.
-- Made a model for posts.
-- Made a model for comments.
-- Made validations for their inputs.
-- Made associations between the user, the post and the comment model.
+- Made a controller for users.
+- Made a view for users.
+- Made a view for edit users.
+- Made validations for user model.
 
 ## Usage
 
